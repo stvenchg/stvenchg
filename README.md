@@ -1,8 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
+### <div align="center">👋 Bonjour, bienvenue sur mon profil !</div>  
 ### <div align="center">Je m'appelle Steven, je suis étudiant en 2ème année de BUT Informatique à l'IUT de Montreuil 🚀</div>  
   
 
