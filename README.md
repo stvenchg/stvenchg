@@ -2,7 +2,7 @@
 ### <div align="center">Je m'appelle Steven, je suis étudiant en 2ème année de BUT Informatique à l'IUT de Montreuil 🚀</div>  
   
 
-- 🔭 Je travaille actuellement sur [PokeNexus](https://github.com/stvenchg/PokeNexus)  
+- 🔭 Je travaille actuellement sur [Nutritive](https://github.com/stvenchg/Nutritive)  
   
 
 - 🌱 J'aspire à devenir un Développeur Web Full-Stack  
